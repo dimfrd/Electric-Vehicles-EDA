@@ -5,9 +5,9 @@ Team DSFT 1 : Andreas Katsaros, Dimitris Farantos <br>
 Project : Electric Vehicle Population
 
 
-# About Dataset
+## About Dataset
 
-## https://www.kaggle.com/datasets/daniilkrasnoproshin/electric-vehicle-population-data
+https://www.kaggle.com/datasets/daniilkrasnoproshin/electric-vehicle-population-data
 
 Electric Vehicle Population Data for Washington State
 
@@ -42,3 +42,21 @@ Source: Washington State Department of Licensing (DOL)
 Note: Please refer to the original dataset for any specific usage restrictions or disclaimers.
 
 https://catalog.data.gov/dataset/electric-vehicle-population-data
+
+
+
+
+## Business Questions to Answer
+
+### Market Penetration and Distribution:
+- How is the distribution of electric vehicles (EVs) across different counties and cities?
+- Which electric vehicle types (BEV or PHEV) are most popular in different regions?
+- Which legislative districts have higher concentrations of EVs? In wich areas? (rural or urban)
+
+### Market Trends and Preferences:
+- What are the most popular makes and models of EVs?
+- How have preferences for EVs changed over time, looking at the model year?
+- What is the average electric range of vehicles preferred in different regions?
+
+### Economic Analysis:
+- What is the relationship between the base MSRP of EVs and their popularity in different regions?
