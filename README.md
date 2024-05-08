@@ -19,23 +19,23 @@ Explore the distribution and trends of electric vehicle adoption in Washington S
 
 Headers:
 
-    -VIN (1-10): Vehicle Identification Number.
-    -County: County where the vehicle is registered.
-    -City: City where the vehicle is registered.
-    -State: State where the vehicle is registered.
-    -Postal Code: Postal code of the registration location.
-    -Model Year: Year of the vehicle model.
-    -Make: Manufacturer of the vehicle.
-    -Model: Model of the vehicle.
-    -Electric Vehicle Type: Type of electric vehicle (BEV or PHEV).
-    -CAFV Eligibility: Clean Alternative Fuel Vehicle eligibility.
-    -Electric Range: Range of the vehicle on electric power.
-    -Base MSRP: Manufacturer's Suggested Retail Price.
-    -Legislative District: Legislative district of the registration location.
-    -DOL Vehicle ID: Department of Licensing Vehicle Identification.
-    -Vehicle Location: Location of the vehicle.
-    -Electric Utility: Electric utility associated with the vehicle.
-    -2020 Census Tract: Census tract of the registration location.
+    - VIN (1-10): Vehicle Identification Number.
+    - County: County where the vehicle is registered.
+    - City: City where the vehicle is registered.
+    - State: State where the vehicle is registered.
+    - Postal Code: Postal code of the registration location.
+    - Model Year: Year of the vehicle model.
+    - Make: Manufacturer of the vehicle.
+    - Model: Model of the vehicle.
+    - Electric Vehicle Type: Type of electric vehicle (BEV or PHEV).
+    - CAFV Eligibility: Clean Alternative Fuel Vehicle eligibility.
+    - Electric Range: Range of the vehicle on electric power.
+    - Base MSRP: Manufacturer's Suggested Retail Price.
+    - Legislative District: Legislative district of the registration location.
+    - DOL Vehicle ID: Department of Licensing Vehicle Identification.
+    - Vehicle Location: Location of the vehicle.
+    - Electric Utility: Electric utility associated with the vehicle.
+    - 2020 Census Tract: Census tract of the registration location.
 
 Source: Washington State Department of Licensing (DOL)
 
