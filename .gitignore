@@ -130,12 +130,10 @@ dmypy.json
 
 
 # documents
-*.pdf
 *.doc
 *.docx
 
 # data
-*.csv
 *.json
 *.xlsx
 *.xls
